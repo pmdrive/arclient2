@@ -42,15 +42,15 @@ const defaultMenu = {
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
 │ Website: *www.bot.rave.my.id*
-│ Instagram: *instagram.com/akbarr.id
+│ Instagram: *instagram.com/akbarr.id*
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
   body: '│ • %cmd %islimit %isPremium',
   footer: '╰────\n',
   after: `
-*%npmname@^%version*
-${'```%npmdesc```'}
+*©️AkbarBotz*
+${'www.bot.rave.my.id'}
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
