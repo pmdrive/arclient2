@@ -41,8 +41,8 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
+│ Website: *www.bot.rave.my.id*
+│ Instagram: *instagram.com/akbarr.id
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
